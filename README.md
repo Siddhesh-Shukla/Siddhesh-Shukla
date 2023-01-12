@@ -21,4 +21,4 @@ MERN Stack was used to develop this platform.
 - Expense Tracker (Android Development)
 - Object Detection In Aerial Images (Computer Vision)
 
-📫 Visit my website: [http://siddhesh-shukla.github.io/](http://siddhesh-shukla.github.io/)
+#### 📫 Visit my website: [http://siddhesh-shukla.github.io/](http://siddhesh-shukla.github.io/)
