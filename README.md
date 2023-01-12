@@ -18,6 +18,6 @@ MERN Stack was used to develop this platform.
 
 ### 🔭 Current Projects
 - UAV assisted Mobile Edge Computing (Reinforcement Learning)
-- Expense Tracker
+- Expense Tracker (Android Development)
 
 📫 Visit my website: [http://siddhesh-shukla.github.io/](http://siddhesh-shukla.github.io/)
