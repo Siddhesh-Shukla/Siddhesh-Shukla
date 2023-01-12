@@ -3,7 +3,7 @@
 
 ### 💼 Work Experience: <br>
 
-- <b>Data Science Intern @ Primera Medical Technologies, Hyderabad</b> <br>
+- <b>Machine Learning Intern @ Primera Medical Technologies, Hyderabad</b> <br>
 Created a pipeline to process a patient's written clinical notes in order to create an early prediction of Diagnostic Related Groups (DRGs) and estimate hospital costs.Extracted information from the clinical notes and mapped it to appropriate SNOMED codes, then developed a SNOMED2VEC model whose outputs are then utilised in conjunction with other pertinent information, such as days of stay during the previous hospitalisation and family history, to forecast the DRG value.
 
 - <b>Software Developer Intern @ PLATiFi, Bangalore</b> <br>
