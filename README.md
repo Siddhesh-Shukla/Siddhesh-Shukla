@@ -19,5 +19,6 @@ MERN Stack was used to develop this platform.
 ### 🔭 Current Projects
 - UAV assisted Mobile Edge Computing (Reinforcement Learning)
 - Expense Tracker (Android Development)
+- Object Detection In Aerial Images (Computer Vision)
 
 📫 Visit my website: [http://siddhesh-shukla.github.io/](http://siddhesh-shukla.github.io/)
