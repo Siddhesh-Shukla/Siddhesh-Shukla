@@ -1,11 +1,23 @@
-<!-- ### Hi there 👋 -->
+## Hi there 👋, I am Siddhesh Shukla 
+### ✍️ I'm a computer science student at BITS Pilani.
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
--->
+### 💼 Work Experience <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Shukla&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+- <b>Data Science Intern @ Primera Medical Technologies, Hyderabad</b> <br>
+Created a pipeline to process a patient's written clinical notes in order to create an early prediction of Diagnostic Related Groups (DRGs) and estimate hospital costs.Extracted information from the clinical notes and mapped it to appropriate SNOMED codes, then developed a SNOMED2VEC model whose outputs are then utilised in conjunction with other pertinent information, such as days of stay during the previous hospitalisation and family history, to forecast the DRG value.
+- <b>Software Developer Intern @ PLATiFi, Bangalore</b> <br>
+Made a contribution by creating a Job Portal for the organization. Candidates can apply for vacant job positions using the portal.
+MERN Stack was used to develop this platform.
+
+### 🌱 Interests:
+- Software Development
+- Natural Language Processing
+- Reinforcement Learning
+- Deep Learning
+- Machine Learning
+
+### 🔭 Current Projects
+- UAV assisted Mobile Edge Computing (Reinforcement Learning)
+- Expense Tracker
+
+📫 Visit my website: [http://siddhesh-shukla.github.io/](http://siddhesh-shukla.github.io/)
