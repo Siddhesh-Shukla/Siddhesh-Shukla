@@ -16,7 +16,7 @@ MERN Stack was used to develop this platform.
 - Deep Learning
 - Machine Learning
 
-### 🔭 Current Projects
+### 🔭 Current Projects:
 - UAV assisted Mobile Edge Computing (Reinforcement Learning)
 - Expense Tracker (Android Development)
 - Object Detection In Aerial Images (Computer Vision)
