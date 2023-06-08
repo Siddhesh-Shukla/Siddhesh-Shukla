@@ -3,12 +3,14 @@
 
 ### 💼 Work Experience: <br>
 
+- <b>Software Developer Inter @Here Technologies</b> <br>
+Tech Stack - Java, Scala, Maven
+
 - <b>Machine Learning Intern @ Primera Medical Technologies, Hyderabad</b> <br>
-Created a pipeline to process a patient's written clinical notes in order to create an early prediction of Diagnostic Related Groups (DRGs) and estimate hospital costs.Extracted information from the clinical notes and mapped it to appropriate SNOMED codes, then developed a SNOMED2VEC model whose outputs are then utilised in conjunction with other pertinent information, such as days of stay during the previous hospitalisation and family history, to forecast the DRG value.
+Involved in creating a NLP model to process the written clinical notes and patient’s history to make an early prediction of Diagnostic Related Groups (DRGs) and estimate the hospital cost.
 
 - <b>Software Developer Intern @ PLATiFi, Bangalore</b> <br>
-Made a contribution by creating a Job Portal for the organization. Candidates can apply for vacant job positions using the portal.
-MERN Stack was used to develop this platform.
+Created a job portal for the organization where candidates can apply for vacant job positions. 
 
 ### 🌱 Interests:
 - Software Development
