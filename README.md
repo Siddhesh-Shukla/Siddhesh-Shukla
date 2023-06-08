@@ -3,7 +3,7 @@
 
 ### 💼 Work Experience: <br>
 
-- <b>Software Developer Inter @Here Technologies</b> <br>
+- <b>Software Developer Intern @Here Technologies</b> <br>
 Tech Stack - Java, Scala, Maven
 
 - <b>Machine Learning Intern @ Primera Medical Technologies, Hyderabad</b> <br>
